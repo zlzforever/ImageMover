@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageMover", "ImageMover\ImageMover.csproj", "{E4C91197-2FBF-44BC-9962-E58F53209AE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{204DF4B0-5AAE-4213-970E-3C6BE5E63884}"
+	ProjectSection(SolutionItems) = preProject
+		build.sh = build.sh
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C91197-2FBF-44BC-9962-E58F53209AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C91197-2FBF-44BC-9962-E58F53209AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C91197-2FBF-44BC-9962-E58F53209AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C91197-2FBF-44BC-9962-E58F53209AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
